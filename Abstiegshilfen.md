@@ -1,0 +1,62 @@
+## Ohren Anlegen
+- Vorgehen
+	- Beschleunigen (halb) um Anstellwinkel im sicheren Bereich zu halten (Pendelbewegung, außerdem vergrößerte Flächenbelastung)
+	- Bremsen ganz lösen und am Steg halten
+	- A2-Leine (nur äußerste!) so hoch wie möglich greifen und ganz runter reißen, festhalten
+	- Beschleuniger voll durchtreten
+	- man kann sich mit den Händen am Gurt festhalten
+- Eigenschaften
+	- Anstellwinkel steigt stark
+	- Schirm ist durch Körpersteuerung noch steuerbar
+	- 3,5 - 4 m/s Sinkgeschwindigkeit, Erhöhung des Sinkwinkel von 15° auf 30°
+- Ausleiten
+	- Beschleuniger erst langsam wieder auf halbe Stellung reduzieren (maximal!)
+	- A2-Leine nach oben führen
+	- wenn ausgependelt, Beschleuniger ganz zurücknehmen
+	- falls ein Ohr hängen bleibt, durch Pumpstoß lösen
+## Big Ears
+- Einleiten
+	- voll beschleunigen, Bremse am Steg
+	- 2 Leinen hoch greifen und **nur umknicken!** Runterziehen würde auch die innere A-Leine mit runterziehen u.d außerdem sehr dynamisch nach hinten wegkippen.
+	- wenn sich der Schirm beruhigt hat kann man noch nachziehen, soweit der A1-Gurt nicht mit heruntergezogen wird.
+- Eigenschaften
+	- Schirm ist sehr rollsensibel, vorsichtig Gewicht verlagern für Kurven.
+- Ausleiten
+	- Leinen freigeben
+	- es hilft teilweise aus dem Beschleuniger zu gehen (20-30%)
+	- Ohren werden wahrscheinlich nicht selbstständig aufgehen -> Pumpstöße, aber immer gleich wieder lösen
+
+## B-Leinen Stall
+- Vorgehen
+	- Fuß in Beschleunigerschlaufe, aber nicht Drücken
+	- Bremsen unverkürzt (unten halten)
+	- Kammgriff über B-Leine und mäßig schnell (1s) nach unten ziehen (kontrollieren ob es wirklich die B-Leinen sind, C würde zum [[Gefahrensituationen#vollständigen Strömungsabriss (**Full Stall**)|Full Stall]] führen). Je schneller man zieht, umso mehr fällt er nach hinten zurück
+	- fast ganz soweit ziehen, dass A-Leinen nicht mit runtergezogen werden (B-Leinen sind mit A-Leinen zusammengenäht), ruhigste Steuerleinenstellung ist schirmabhängig
+- Eigenschaften
+	- Knick in der Mitte des Schirms
+	- kontrollierter Stall (ähnlich zum [[Gefahrensituationen#**Sackflug**|Sackflug]])
+	- Schirm fällt dabei etwas zurück (Pendel), dabei Position halten
+	- Sinkgeschwindigkeit von 6-8 m/s
+	- bei schmalen Schirmen kann sich der Schirm deformieren (Frontrosette) oder Schlagen - im Ansatz Ausleiten und neu Einleiten
+- Ausleiten
+	- wie beim [[Gefahrensituationen#**Sackflug**|Sackflug]]
+	- Bremsen und B-Leinen **schnell hochführen**, dabei unbedingt auch die Bremse lösen, also nicht schnappen lassen
+	- Schirm soll vorschießen um Fahrt aufzunehmen -> **nicht anbremsen! Erst 3s warten**. Er kann vor einem sich nicht abreißen, da der Schirm erstmal nach unten ausflared, erst wenn man drunter pendelt HST man wieder Horizontalflug -> Anstellwinkel relativ zur Luft immer im grünen Bereich
+	- falls der Schirm im Sackflug bleibt (auf Fahrtgeräusche achten) -> Beschleunigen
+
+## Steilspirale
+- Vorgehen
+	- Trimmgeschwindigkeit um Fahrt aufzunehmen
+	- steile Kurve einleiten
+	- Kurveninnenseite nachziehen
+	- Außenseite kontrolliert das Abnicken und die Geschwindigkeit des Schirms -> Spiralradius
+	- mit der Innenseite kann der Schirm wieder mehr auf die Nase gelegt werden
+- Eigenschaften
+	- Sinkgeschwindigkeit 8 -16 m/s, 50m Höhenverlust pro Spirale
+	- 2-4g Kräfte
+	- führt zu Reaktionsschwäche und Blackout
+- Ausleiten
+	- in der Abtauchphase kann man durch Bremsen lösen das Eintauchen in die Spirale verhindern
+	- Gewicht unbedingt wieder aus der Kurve herausnehmen
+	- Slow Exit: nicht zu schnell ausleiten, da sich sonst der Schirm aufrichtet und der Schirm vorschießt. An Außenbremse Zug erhöhen, Innenbremse bleibt gezogen, eventuell nachziehen wenn der Schirm zu schnell raus will. Geschwindigkeit langsam abbauen
+	- Fast Exit (French Pitch): beide Bremsen lösen, Schirm rotiert 1-2 Umdrehungen aus und schießt mit viel Pitch aus der Spirale heraus. Mit Gewichtsverlagerung den Pitch symetrisch halten. Dabei unbedingt die Hände hoch lassen, mit Gewicht symmetrisch halten! Wenn der Schirm beim zurückpendeln dann vorschießt scharf bremsen, bis der Schirm "anhält", dann langsam wieder öffnen
