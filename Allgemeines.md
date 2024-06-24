@@ -4,7 +4,6 @@ tag: Aktivitaet, Outdoor
 description: 
 created: 2023-05-01
 ---
-
 ## Organisatorisches
 - David Drive: https://bwsyncandshare.kit.edu/s/LcDMXWKBEnA5jdP?path=%2FNotizen
 - Kerstin Drive: https://1drv.ms/f/s!Ap3BWrYnGymH3G--hR9vHai-3AIg?e=PQtPJE, PW: Pappus_A1_2023!

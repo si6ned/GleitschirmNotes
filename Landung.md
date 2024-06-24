@@ -7,7 +7,7 @@
 - bei besonderen Gegebenheiten, kann für einen speziellen Landeplatz eine Rechtslandevolte vorgeschrieben sein (siehe **Landeplatztafel**). Normalerweise natürlich nur eine der beiden Seiten, da eine Seite unsicherer ist
 
 ## Landephasen
-![](Landephasen.jpg)
+![Landephasen.jpg](Anlage/Landephasen.jpg)
 ### 1. Anflugbox/Positionsbox
 - ständig Blick zur Windfahne
 - Positionskreise mit Durchmesser 50 m
@@ -40,7 +40,7 @@
 2. mit etwas mehr Höhe die Landevolte beginnen
 3. plane den Queranflug näher am Peilpunkt
 
-![](Starkwindlandung.jpg)
+![Starkwindlandung.jpg](Anlage/Starkwindlandung.jpg)
 - bei sehr starkem Wind sogar vor dem Peilpunkt den Queranflug beginnen
 - durch Schlangenlinien kann über dem Peilpunkt im Notfall noch Höhe abgebaut werden (bei sehr starkem Wind) -> eigentlich eine flache 8
 - Seitenwindlandung vor Rückenwindlandung

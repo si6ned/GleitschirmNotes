@@ -15,13 +15,13 @@
 - Bodeneffekt spielt beim Gleitschirm keine Rolle, beim Drachen schon
 - Wirbelschleppen eines Gleitschirms können bis zu 30 s bestehen
 - niemals in Wirbelschleppe von Flugzeugen fliegen
-- [Flächenbelastung](Allgemeines#^ca286c) beeinflusst Gleichgewichtslage Fluggeschwindigkeit - Anstellwinkel -> je geringer die Flächenbeslastung desto langsamer der Flug
-- [gesamte Luftkraft](Allgemeines#^b8de22) = Gewichtskraft (da Schub = 0)
+- [Flächenbelastung](Allgemeines#^b8de22) beeinflusst Gleichgewichtslage Fluggeschwindigkeit - Anstellwinkel -> je geringer die Flächenbeslastung desto langsamer der Flug
+- [gesamte Luftkraft](Allgemeines#^2a81a9) = Gewichtskraft (da Schub = 0)
 - Druckpunkt ist Kräftemittelpunkt
 - Gleitschirm hat eine Pendelstabilität (Rollen und Nicken), Gierstabilität wird duch Pfeilung und durch Rundung im Flügel (vergleichbar mit Seitenleitwerk)
 
 ## Profilpolare
-![](Profilpolare.jpg)
+![Profilpolare.jpg](Anlage/Profilpolare.jpg)
 - Polare äquivalent für C_A / C_W
 - Geschwindigkeit des besten Gleitens ist abhängig von der Windgeschwindigkeit (Ursprung der Gerade im Diagram verschiebt sich in X-Richtung) und dem Abwind (Ursprung verschiebt sich in Y-Richtung)
 - der Beschleuniger verschlechtert die Polare (verstärkt das Sinken) aber verlängert die Polare nach hinten (höhere Horizontalgeschwindigkeiten) -> bei Gegenwind verschiebt sich der Punkt des bestens Gleitens und kann so wieder besser getroffen werden
