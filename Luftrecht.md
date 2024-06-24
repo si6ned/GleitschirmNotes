@@ -39,7 +39,7 @@
 - falls ein Fluggerät ersichtlich in seiner Manöverierfähigkeit beeinträchtigt ist, hat es immer Vorfahrt (SERA.3210)
 
 ## Luftraum
-![[Luftraum.jpg]]
+![](Luftraum.jpg)
 - Sichtflugregeln
 	- Boden muss immer zu sehen sein, unter 300 m über Grund (AGL) ODER unter 900 m MSL (Luftraum G) 1.5 km Fernsicht, darüber 5 km (Luftraum E)
 	- Abstand zu Wolken: 1.5 km horizontal, 300 m vertikal

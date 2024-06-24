@@ -32,7 +32,7 @@ wichtige Phänomene sind:
 - Die Luft erwärmt sich wenig durch die Sonne, sondern der Erdboden -> warme Luft steigt auf und kühlt sich durch kompressible Entspannung aus -> Thermik entsteht durch Temperatur(/Dichte)unterschiede
 - mit steigender Temperatur kann Luft exponentiell mehr Wasser aufnehmen -> RH nimmt bei aufsteigender Luft zu
 - Termperaturverlaufskurve (Temp, aus Messsonden) gibt Auskunft über den tagesaktuellen Verlauf der Temperatur über der Höhe
-- der Schnittpunkt der Temperaturkurve mit der Taukurve gibt die Wolkenbasis an (siehe [[#Thermik]])
+- der Schnittpunkt der Temperaturkurve mit der Taukurve gibt die Wolkenbasis an (siehe [Thermik](#Thermik)
 - -1 °C / 100 m Höhe Temperaturabnahme für **aufsteigende** Luftmassen (trockenadiabat). Bei Wolken d.h. RH=1 kompensiert tlw. die Kondesationswärme, deshalb ca. -0.5 °C / 100m (feuchtadiabat)
 
 ### Stabile/labile Wetterlage
@@ -58,7 +58,7 @@ wichtige Phänomene sind:
 - je weiter die Isobaren auf der Isobarenkarte auseinander sind, umso geringer sind wahrscheinlich die Winde. Je ausgepägter Hochdruckgebiete sind, umso beständiger sind sie.
 
 ## Kleinräumige Windsysteme (Tagesperiodische Winde)
-![[Talwinde.jpg]]
+![](Talwinde.jpg)
 - "bodennahe Windmassen strömen von kalt nach warm"
 
 ### Land- und Seewind
@@ -81,7 +81,7 @@ wichtige Phänomene sind:
 ## Regionale Windsysteme
 
 ### Föhn
-![[Foehn.jpg]]
+![](Foehn.jpg)
 - für uns problematisch ist der Südföhn:
 - Südwind am Alpenhauptkamm, ausgelöst durch Tiefdruckgebiet auf der Alpennordseite
 - Luft staut sich am Kamm auf
@@ -103,7 +103,7 @@ wichtige Phänomene sind:
 - Mistral in Frankreich: Nordwind, kanalisiert durch Alpen und dem französischem Zentralmassiv (Rhonetal, Marseile)
 
 ## Thermik
-![[Thermikzyklus.jpg]]
+![](Thermikzyklus.jpg)
 - der Dichteunterschied lässt warme Luftblasen aufsteigen
 - ab ca. 3° Temperaturunterschied
 - Quellen sind trockene, warme Flächen, die möglichst rechtwinklig von der Sonne angestrahlt wird:
@@ -122,7 +122,7 @@ wichtige Phänomene sind:
 - Lebensdauer zwischen Minuten und Stunden
 - bei Überentwicklung gibt es Schönwettergewitter
 
-![[Thermiklabilität.jpg]]
+![](Thermiklabilität.jpg)
 - je nach Temperaturschichtung der ungestörten Atmosphäre und damit dem Temperaturunterschied zum Thermikbart ist die Bartgrenze stark turbulent
 - Temperaturdifferenz am Erdboden am Größten
 - wenn die Umgebungsluft labil ist, steigt die Temperaturdifferenz dazu mit der Höhe an, Thermik und Turbulenz nimmt nach oben hin zu
@@ -173,13 +173,13 @@ wichtige Phänomene sind:
 - Kaltfront Linie blau mit ^,  Warmfront rot mit Halbkreis, Ausbreitung in Richtung der Symbole. Okklusion pink mit beiden Symbolen
 
 ### Warmfront
-![[Warmluftfront.jpg]]
+![](Warmluftfront.jpg)
 - kalte Luft hat höhere Dichte, warme Luft steigt daran auf (**Aufgleitinversion**)
 - Schichtwolken entstehen und sind damit Anzeichen für eine Warmfront, diese ist aber noch 600-800 km entfernt
 - weiteres Anzeichen ist der sinkende Luftdruck
 
 ### Kaltfront
-![[Kaltluftfront.jpg]]
+![](Kaltluftfront.jpg)
 - schlecht anhand der Wolkenbilder vorherzusehen
 - heftige Gewitter möglich
 - schlagartiges Ansteigen des Luftdrucks, aber erst bei Eintreffen des Gewitters
@@ -188,14 +188,14 @@ wichtige Phänomene sind:
 - bewegen sich schneller als Warmfront und holt sie oft ein (Okklusion)
 
 ### Okklusion
-![[Okklusion.jpg]]
+![](Okklusion.jpg)
 - wenn eine Kaltfront die Warmfront einholt, dann gibt es eine neue Kaltluft-Kaltluft Grenze am Boden, die Warmluft-Kaltluft Grenze wird vom Boden abgehoben
 - hat ähnlichen Charakter wie Kaltfront
 
 ### zeitlicher Verlauf
 typischer Schlechtwetterdurchgang in unseren Breiten:
-![[Frontenschnitt.jpg]]
-![[Frontenschnitt-3d.jpg]]
+![](Frontenschnitt.jpg)
+![](Frontenschnitt-3d.jpg)
 - Tief zieht nördlich von uns vorbei (da Zyklone im 60° Breitengrad, aka. **Islandtief**)
 - Fronten ziehen über uns rüber, erkennbar am Regen -> Regenradar
 - abhängig von der Bewegungen der Tiefs/Hochs
@@ -222,4 +222,4 @@ Windfahnen in der Windvorhersage
 - Knoten -> km/h : \*2 - 10%
 
 ## Gefährdungsbeurteilung
-![[Windbeurteilung.jpg]]
+![](Windbeurteilung.jpg)

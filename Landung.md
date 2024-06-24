@@ -7,12 +7,12 @@
 - bei besonderen Gegebenheiten, kann für einen speziellen Landeplatz eine Rechtslandevolte vorgeschrieben sein (siehe **Landeplatztafel**). Normalerweise natürlich nur eine der beiden Seiten, da eine Seite unsicherer ist
 
 ## Landephasen
-![[Landephasen.jpg]]
+![](Landephasen.jpg)
 ### 1. Anflugbox/Positionsbox
 - ständig Blick zur Windfahne
 - Positionskreise mit Durchmesser 50 m
 ### 2. **Gegenanflug** mit dem Wind
-- [[Allgemeines#^42bcd8|leicht angebremst]] fliegen
+- [leicht angebremst](Allgemeines#^d7f7be) fliegen
 - wenn ich mehr als einen 45° Winkel zum Peilpunkt habe, dann mache ich noch einen Positionskreis und fliegen dann die Landevolte
 - wenn geringfügig zu hoch, kann man den Gleitwinkel durch verstärktes Bremsen verringern
 - wenn man auf Höhe des Peilpunkts zu hoch ist, kann man noch Positionskreise fliegen (Quer-ab-zum-Punkt, nur DHV Lehrmeinung, nicht empfohlen, da man französischen/schweizer Fliegen damit in die Quere kommt)
@@ -25,8 +25,8 @@
 ### 4. Endanflug gegen den Wind auf Peilpunkt zu
 - keine Kurven etc. mehr fliegen, Kurshaltepflicht!
 - Hände nicht zu niedrig, Gefahr des Strömungsabrisses!
-- 10m überm Boden Hände nochmal [[Allgemeines#^d7f7be|leicht anheben]] um leicht zu beschleunigen
-- 1.5m über Boden [[Allgemeines#^2a81a9|abfangen]], ausgleiten lassen
+- 10m überm Boden Hände nochmal [leicht anheben](Allgemeines#^d7f7be) um leicht zu beschleunigen
+- 1.5m über Boden [abfangen](Allgemeines#^42bcd8), ausgleiten lassen
 - Wenn Geschwindigkeit abgebaut ist durchbremsen (Pumpstoß) -> kontrollierter Strömungsabriss
 ### 5. Schirm ablegen
 - 180° Drehung wenn Schirm oben
@@ -40,7 +40,7 @@
 2. mit etwas mehr Höhe die Landevolte beginnen
 3. plane den Queranflug näher am Peilpunkt
 
-![[Starkwindlandung.jpg]]
+![](Starkwindlandung.jpg)
 - bei sehr starkem Wind sogar vor dem Peilpunkt den Queranflug beginnen
 - durch Schlangenlinien kann über dem Peilpunkt im Notfall noch Höhe abgebaut werden (bei sehr starkem Wind) -> eigentlich eine flache 8
 - Seitenwindlandung vor Rückenwindlandung

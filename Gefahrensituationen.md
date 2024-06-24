@@ -1,6 +1,6 @@
 ## Strömungsabriss
 
-### **Sackflug**
+### Sackflug
 - Auslöser:
 	- anhaltender, sehr großer Bremsleinenzug und daraus resultierend Vorwärtsgeschwindigkeiten unter 22-26 km/h
 - Eigenschaften:

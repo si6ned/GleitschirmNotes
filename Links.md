@@ -31,6 +31,7 @@
 - [Aktiv Fliegen Video](https://www.youtube.com/watch?v=c3wKx9fy5G4)
 - [Nicken und Stabilisieren](https://www.youtube.com/watch?v=N12YkRYocmU)
 - [Thermikfliegen](http://www.dhv.de/web/fileadmin/user_upload/files/2015/Artikel_Sicherheit/2010_163_thermikfliegen.pdf)
+- [Soaren](https://youtu.be/glAehn4A8xY?si=nrpk152onWzWuVUK)
 - [Abstiegshilfen](https://www.youtube.com/watch?v=UeBLDDfTGcU)
 - [Steilspirale](http://www.dhv.de/web/fileadmin/user_upload/files/2015/Artikel_Sicherheit/2015_190_stabile_spirale.pdf)
 - [Einklapper Pt. 1](http://www.dhv.de/web/fileadmin/user_upload/files/2015/Artikel_Sicherheit/2014_186_seitenklapper_teil_1.pdf) [Pt. 2](http://www.dhv.de/web/fileadmin/user_upload/files/2015/Artikel_Sicherheit/2014_188_seitenklapper_teil_2.pdf) [Frontklapper](http://www.dhv.de/web/fileadmin/user_upload/files/2015/Artikel_Sicherheit/2013_183_frontklapper.pdf)
@@ -52,7 +53,7 @@
 [DHVinfo - YouTube](https://www.youtube.com/@DHVinfo "https://www.youtube.com/@DHVinfo") - Weiterbildung
 [DHV Gleitschirm und Drachen fliegen - Deutscher Gleitschirmverband und Drachenflugverband: Online-Seminare](https://www.dhv.de/piloteninfos/online-seminare/ "https://www.dhv.de/piloteninfos/online-seminare/") - Weiterbildung
 
-[DHV Gelände-Datenbank: Deutschland + Alpen :: gelaende / start](https://www.dhv.de/db3/gelaende/ "https://www.dhv.de/db3/gelaende/") - Fluggelände
+[DHV Gelände-Datenbank](https://www.dhv.de/db3/gelaende/ "https://www.dhv.de/db3/gelaende/") - Fluggelände
 [https://www.burnair.cloud/](https://www.burnair.cloud/ "https://www.burnair.cloud/") - Fluggelände, Wettervorhersage (Anmeldung erforderlich)
 [http://www.paragliding365.com/](http://www.paragliding365.com/ "http://www.paragliding365.com/") - Fluggebiete
 

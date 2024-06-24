@@ -70,7 +70,7 @@
 - mit Leinenrest Schleife (max. 2 cm) durch Containergummi legen
 - Container mit Schulterbefestigung verbinden und einbauen (glatte Seite zum Sitzbrett, Griff und Anseilschlaufe nach außen)
 - beide Reißverschlüsse oben und unten wieder zumachen
-![[Retter_packen.jpg]]
+![](Retter_packen.jpg)
 
 ## Helm
 - nach Norm EN 966 (eventuell auch EN 1077 **Klasse A**)
