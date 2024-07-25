@@ -50,26 +50,21 @@
 
 ### Retter packen
 - 1x pro Jahr
-- nach dem Öffnen Leinen zu Luftschlaufen knüpfen, damit die Leinen nicht verwickeln
-- Bahnen mit Schnur den Zahlen nach an den Ösen aufnehmen und zuziehen
-- Spannung zwischen Anseilschlaufe und Schnur in Ösen aufbauen
-- Bahnen sortieren: Bahnen symmetrisch links & rechts von Stammleinen aufteilen, beginnend bei 0. An den Ecken (erkennbar an Schliz in Bahn, z.B. beim Dreieck zwischen 3&4) kontrollieren, dass die Bahnen der Stammleinen richtig liegen, sodass man durchschauen kann. Bei Dreieck liegen sie in einer roten Bahn drin.
-- Leinen sortieren: kein Leinenüberwurf um Stammleinen, Leinenpacket links und rechts gebündelt. Gegebenfalls Anseilschlaufe zum entwirren entdrehen. Leinenpaket in sich kann Dreher haben. Es dürfen äußeres Leinen ganz außen oben drüber liegen, solange keine Verwicklung mit Stammleinen, da diese eh alle nach außen aufgehen (Dreieck)
-- gesammelt als Paket alles ablegen, Leinen sind alle gebündelt auf einer Seite. Leinen mit Gewicht beschweren
-- alle Bahnen von links nach rechts umschlagen und glatt streichen. Dabei richrig zusammenfalten, siehe Pfeile auf Tuch. an den Schlitzen die Mittelbahnen sortieren und nach innen reinschieben, muss nicht zu ordentlich sein, dann Öffnet er besser. Wichtig: Eintrittskante unten muss sauber liegen und durch Luft aufgehen können
-- der Länge nach falten mit S-Schlag auf Containerbreite
-- Zieharmonika falten auf Länge des Containers. Leinenenden liegen oben
+- nach dem Öffnen Leinen zu Luftschlaufen knüpfen, damit die Leinen nicht verwickeln. 1 Tag auslüften lassen.
+- Bahnen mit Schnur den Zahlen nach an den Ösen aufnehmen und zuziehen (21 Stück)
+- Spannung zwischen Anseilschlaufe und Schnur in Ösen aufbauen (am besten zwischen 2 festen Punkten aufhängen)
+- **Bahnen sortieren**: Bahnen symmetrisch links & rechts von Stammleinen aufteilen, beginnend/endend bei 0 oder an Bahn mit Schlitz (3&4). Dabei von oben reinschauen und alles bis zur Naht rausziehen. An den Ecken (erkennbar an Schlitz in Bahn, z.B. beim Dreieck zwischen 3&4) kontrollieren, dass die Bahnen der Stammleinen richtig liegen, sodass man durchschauen kann. Am Ende wieder zum 3&4 Schlitz oben umschlagen und Mittelbahnen in roter Bahn unten grmeinsam (hier weiß).
+![[Anlage/Retter_sortieren.jpg]]
+- **Leinen sortieren**: kein Leinenüberwurf um Stammleinen, Leinenpacket links und rechts gebündelt. Gegebenfalls Anseilschlaufe zum entwirren entdrehen. Leinenpaket in sich darf Dreher haben. Es dürfen äußere Leinen ganz außen oben drüber liegen, da diese eh alle nach außen aufgehen (Dreieck), solange keine Verwicklung mit Stammleinen.
+- **Ablegen**: gesammelt als Paket alles ablegen, Leinen sind alle gebündelt auf einer Seite. Dann wieder bis Hälfte (3&4-Bahn) aufklappen. Leinen mit Gewicht beschweren.
+- **Falten**: beide Seiten getrennt falten. Erst ganzes Paket auf andere Seite umschlagen, dann Bahn für Bahn zurückfalten und glatt streichen. Dabei auf Pfeile auf dem Tuch für Faltweise achten (unten die Außenkante nach innen reinfalzen, oben 2x umschlagen und Mitte auf Anschlag rausziehen). An den Schlitzen die Mittelbahnen sortieren und nach innen & oben reinschieben, muss nicht zu ordentlich sein, dann öffnet die Kappe besser. Wichtig: Eintrittskante unten muss sauber liegen und durch Luft aufgehen können
+- **S-Schläge**: beide Seiten um lange Kante falten mit S-Schlag auf Containerbreite, dann um kurze Seite falten mit S-Schlag auf auf Länge des Containers (wie Ziehharmonika, nie 2 mal in die gleiche Richtung falten).
+- Paket in Container legen, Leinenenden gegenüber vom Griff und oben.
 - **Schnur wieder rausziehen!**
-- Leinen von der Schlaufe aus zusammenraffen, damit es am Ende keine überstehenden Leinen gibt
-- 6 Stäbe/Finger richten und Gummis darüberstreifen (neue Gummis oder einfach weglassen)
-- Leinen 3-4x um 2 Finger/Stäbe Schlaufen, dann weiter zu den nächsten 2
-- Gummis über Leinen stülpen und die Leinenpakete oben in Container ablegen
-- 3 Containerblätter schließen
-- mit Leinenrest Schleife (max. 2 cm) durch Containergummi legen
-- 4. Containerblatt schließen
-- mit Leinenrest Schleife (max. 2 cm) durch Containergummi legen
-- Container mit Schulterbefestigung verbinden und einbauen (glatte Seite zum Sitzbrett, Griff und Anseilschlaufe nach außen)
-- beide Reißverschlüsse oben und unten wieder zumachen
+- **Leinen vorbereiten**: Leinen von der Schlaufe aus zusammenraffen, damit es am Ende keine überstehenden Leinen gibt. 3 Blätter schließen, eine Schlaufe durch die Contaimeröse
+- **Leinen schlaufen**: 6 Stäbe/Finger richten und Gummis darüberstreifen (neue Gummis oder einfach weglassen). Leinen 3-4x um 2 Finger/Stäbe Schlaufen, dann weiter zu den nächsten 2. Gummis über Leinen stülpen und die Leinenpakete in den Container ablegen.
+- **Container verschließen**: 3 Containerblätter schließen, mit Leinenrest Schleife (max. 2 cm) durch Containergummi legen. 4. Containerblatt schließen, dann mit Leinenrest Schleife (max. 2 cm) durch Containergummi legen
+- **Einbauen**: Container mit Schulterbefestigung verbinden und einbauen (glatte Seite zum Sitzbrett, Griff und Anseilschlaufe nach außen). Beide Reißverschlüsse oben und unten wieder zumachen.
 ![Retter_packen.jpg](Anlage/Retter_packen.jpg)
 
 ## Helm
